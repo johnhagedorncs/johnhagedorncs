@@ -1,5 +1,7 @@
 # John Hagedorn
 
+Portfolio Website: https://johnhagedorn.netlify.app/
+
 Industrial time-series anomaly detection: ML pipelines, the infrastructure they run on, and
 the statistics that decide whether a result is real.
 
